@@ -1,4 +1,4 @@
-**VMPD (VEHICLE MANEUVER PATTERN DETECTION): Uma metodologiacombinando séries temporais e visão computacional para detecção de padrões de manobras em vias automotivas.
+**VMPD (VEHICLE MANEUVER PATTERN DETECTION): Uma metodologia combinando séries temporais e visão computacional para detecção de padrões de manobras em vias automotivas.
 
 
 Trabalho de Conclusão de Curso apresentado aoCentro Universitário FEI, como parte dos requi-sitos necessários para obtenção do título de Ba-charel em Ciência da Computação.  Orientadopelo Prof. Dr. Paulo Sérgio Silva Rodrigues.
